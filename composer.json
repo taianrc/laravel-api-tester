@@ -1,5 +1,5 @@
 {
-    "name": "asvae/laravel-api-tester-d",
+    "name": "asvae-d/laravel-api-tester",
     "description": "Api tester for Laravel Framework",
     "keywords": ["laravel", "api", "debug"],
     "license": "MIT",
